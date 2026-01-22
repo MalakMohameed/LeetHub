@@ -1,12 +1,25 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> loctaions;
-        for(int i = 0; i < nums.size()-1; i++){
-             for(int j = i+1; j < nums.size(); j++){
-            if(nums[i] + nums[j] == target) loctaions = {i, j};
+        // Hash map to store value -> index mapping
+        unordered_map<int, int> valueToIndex;
+      
+        // Iterate through the array
+        for (int i = 0; i < nums.size(); ++i) {
+            int currentNum = nums[i];
+            int complement = target - currentNum;
+          
+            // Check if the complement exists in the hash map
+            if (valueToIndex.find(complement) != valueToIndex.end()) {
+                // Found the pair, return their indices
+                return {valueToIndex[complement], i};
             }
+          
+            // Store current number and its index in the hash map
+            valueToIndex[currentNum] = i;
         }
-        return loctaions;
+      
+        // This line should never be reached if input guarantees a solution
+        return {};
     }
 };
