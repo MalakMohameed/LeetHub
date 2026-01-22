@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/MalakMohameed/LeetHub/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/MalakMohameed/LeetHub/tree/master/0035-search-insert-position) |
+| [0739-daily-temperatures](https://github.com/MalakMohameed/LeetHub/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MalakMohameed/LeetHub/tree/master/0035-search-insert-position) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MalakMohameed/LeetHub/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MalakMohameed/LeetHub/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
