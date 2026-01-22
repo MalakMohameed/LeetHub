@@ -37,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/MalakMohameed/LeetHub/tree/master/0739-daily-temperatures) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/MalakMohameed/LeetHub/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
