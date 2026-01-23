@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MalakMohameed/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3649-number-of-perfect-pairs](https://github.com/MalakMohameed/LeetHub/tree/master/3649-number-of-perfect-pairs) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/MalakMohameed/LeetHub/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/MalakMohameed/LeetHub/tree/master/0035-search-insert-position) |
 | [0739-daily-temperatures](https://github.com/MalakMohameed/LeetHub/tree/master/0739-daily-temperatures) |
+| [3649-number-of-perfect-pairs](https://github.com/MalakMohameed/LeetHub/tree/master/3649-number-of-perfect-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/MalakMohameed/LeetHub/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MalakMohameed/LeetHub/tree/master/0009-palindrome-number) |
+| [3649-number-of-perfect-pairs](https://github.com/MalakMohameed/LeetHub/tree/master/3649-number-of-perfect-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -50,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MalakMohameed/LeetHub/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [3649-number-of-perfect-pairs](https://github.com/MalakMohameed/LeetHub/tree/master/3649-number-of-perfect-pairs) |
 <!---LeetCode Topics End-->
