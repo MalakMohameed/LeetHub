@@ -23,12 +23,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/MalakMohameed/LeetHub/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/MalakMohameed/LeetHub/tree/master/0035-search-insert-position) |
 | [0739-daily-temperatures](https://github.com/MalakMohameed/LeetHub/tree/master/0739-daily-temperatures) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/MalakMohameed/LeetHub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3649-number-of-perfect-pairs](https://github.com/MalakMohameed/LeetHub/tree/master/3649-number-of-perfect-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalakMohameed/LeetHub/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/MalakMohameed/LeetHub/tree/master/0013-roman-to-integer) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/MalakMohameed/LeetHub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3649-number-of-perfect-pairs](https://github.com/MalakMohameed/LeetHub/tree/master/3649-number-of-perfect-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/MalakMohameed/LeetHub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
