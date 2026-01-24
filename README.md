@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MalakMohameed/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MalakMohameed/LeetHub/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MalakMohameed/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MalakMohameed/LeetHub/tree/master/0058-length-of-last-word) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MalakMohameed/LeetHub/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MalakMohameed/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MalakMohameed/LeetHub/tree/master/0013-roman-to-integer) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/MalakMohameed/LeetHub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Binary Search
@@ -66,5 +68,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MalakMohameed/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/MalakMohameed/LeetHub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 <!---LeetCode Topics End-->
