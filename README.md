@@ -70,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MalakMohameed/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/MalakMohameed/LeetHub/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/MalakMohameed/LeetHub/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
